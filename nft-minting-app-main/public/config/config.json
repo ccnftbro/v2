@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x186eDA0Fde7Dc3D76f7bB9d519f0F1C8C2fe4f4C",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x186eda0fde7dc3d76f7bb9d519f0f1c8c2fe4f4c",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "CC NFT",
+  "SYMBOL": "CC",
+  "MAX_SUPPLY": 20,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/cc-test-bro",
+  "SHOW_BACKGROUND": true
+}
